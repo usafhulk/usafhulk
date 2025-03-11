@@ -1,4 +1,4 @@
-# Hi there, I'm Usafhulk 👋
+# Hi there, I'm Christopher Banner 👋
 
 Welcome to my GitHub profile! I am currently active duty in the Air Force, but transitioning back into the civilian world in 2026. I am an aspiring data scientist with a great work ethic and a thirst for knowledge and growth.
 
