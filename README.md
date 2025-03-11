@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am currently active duty in the Air Force, but t
 - Python
 - R and R studio
 - Database design and management
-- Tableua
+- Tableau
 - Microsoft Power BI
 - Data Vis
 - Data Cleaning and manipulation
