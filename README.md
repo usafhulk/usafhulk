@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am currently active duty in the Air Force, but t
 
 
 ## About Me
-- 🔭 Google Data Analytics Capstone Project through Coursera
+- 🔭 IBM AI Engineering Professional Certification
 - 🌱 I’m currently finishing my MS in Information Technology with a Data Analytics Concentration
 - 💬 Ask me about anything
 - 📫 How to reach me: chrisbanner38@gmail.com
