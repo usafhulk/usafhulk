@@ -73,7 +73,7 @@ class TextProcessor:
             text = text.lower()
         
         # Remove special characters but keep basic punctuation
-        text = re.sub(r'[^\w\s\.\,\!\?\-\']', '', text)
+        text = re.sub(r'[^\w\s.,!?\'-]', '', text)
         
         return text.strip()
     

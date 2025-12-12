@@ -308,9 +308,9 @@ class SentimentVisualizer:
         """
         try:
             plt.figure(figsize=(10, 6))
-            sns.boxplot(x='classification', y='polarity', data=data, hue='classification',
+            sns.boxplot(x='classification', y='polarity', data=data,
                        palette={'positive': '#90EE90', 'neutral': '#FFD700', 
-                               'negative': '#FFB6C1'}, legend=False)
+                               'negative': '#FFB6C1'})
             plt.xlabel('Sentiment Classification', fontsize=12)
             plt.ylabel('Polarity Score', fontsize=12)
             plt.title('Polarity Distribution by Sentiment', fontsize=16, fontweight='bold')
